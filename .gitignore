@@ -140,3 +140,6 @@ imdb_data
 # macOS
 .DS_Store
 ._.DS_Store
+
+# Skill runtime state
+skill_state*/
